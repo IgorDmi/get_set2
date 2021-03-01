@@ -17,7 +17,7 @@ namespace get_set2
         {
             get
             {
-                return _no;
+                return _numb;
             }
             set
             {
